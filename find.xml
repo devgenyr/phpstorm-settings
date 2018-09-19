@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="TMF Active Theme and Plugins" />
+    <option name="defaultScopeName" value="TMF Active Theme and Plugins" />
+    <option name="SEARCH_SCOPE" value="TMF Active Theme and Plugins" />
   </component>
 </application>
