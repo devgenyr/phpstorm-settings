@@ -10,6 +10,7 @@
     <option name="MARK_MODIFIED_TABS_WITH_ASTERISK" value="true" />
     <option name="MAX_CLIPBOARD_CONTENTS" value="20" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
+    <option name="smoothScrolling" value="true" />
     <option name="USE_SMALL_LABELS_ON_TABS" value="true" />
     <option name="WIDESCREEN_SUPPORT" value="true" />
   </component>
