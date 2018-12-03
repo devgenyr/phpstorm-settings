@@ -1,6 +1,5 @@
 <templateSet group="PHP">
-  <template name="errl" value="error_log( print_r( $VAR_VAL$, true ) );" description="error_log( print_r( $value, true ) );" toReformat="false" toShortenFQNames="true">
-    <variable name="VAR_VAL" expression="" defaultValue="&quot;'TEST MSG'&quot;" alwaysStopAt="true" />
+  <template name="errl" value="error_log( print_r( $END$, true ) );" description="error_log( print_r( $value, true ) );" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="PHP Statement" value="true" />
     </context>
