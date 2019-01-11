@@ -2,6 +2,7 @@
   <component name="UISettings">
     <option name="ACTIVATE_MRU_EDITOR_ON_CLOSE" value="true" />
     <option name="ALLOW_MERGE_BUTTONS" value="false" />
+    <option name="DND_WITH_PRESSED_ALT_ONLY" value="true" />
     <option name="EDITOR_TAB_LIMIT" value="20" />
     <option name="FONT_FACE" value="Ebrima" />
     <option name="FONT_SCALE" value="1.0833334" />
