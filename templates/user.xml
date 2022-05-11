@@ -1,0 +1,32 @@
+<templateSet group="user">
+  <template name="errl" value="error_log( print_r( $END$, true ) );" description="Error log for WordPress" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="@incret" value="@include responsive(tablet) {&#10;  $END$&#10;}" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name="@incrett" value="@include responsive(big-tablet) {&#10;  $END$&#10;}" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name="@incred" value="@include responsive(desktop-up) {&#10;  $END$&#10;}" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name="@increl" value="@include responsive(large-phone) {&#10;  $END$&#10;}" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name="@incremd" value="@include responsive(middle-desktop) {&#10;  $END$&#10;}" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+</templateSet>

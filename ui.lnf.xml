@@ -1,0 +1,8 @@
+<application>
+  <component name="UISettings">
+    <option name="compactTreeIndents" value="true" />
+    <option name="DND_WITH_PRESSED_ALT_ONLY" value="true" />
+    <option name="showTreeIndentGuides" value="true" />
+    <option name="WIDESCREEN_SUPPORT" value="true" />
+  </component>
+</application>

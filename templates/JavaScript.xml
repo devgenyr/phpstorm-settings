@@ -1,0 +1,8 @@
+<templateSet group="JavaScript">
+  <template name="itera" value="for await ($VARKIND$ $VAR$ of $ARRAY$) {&#10;  $END$&#10;}" description="Iterate (for..of)" toReformat="true" toShortenFQNames="true">
+    <variable name="VARKIND" expression="jsSuggestDefaultVariableKind()" defaultValue="let" alwaysStopAt="false" />
+    <variable name="ARRAY" expression="jsArrayVariable()" defaultValue="&quot;array &quot;" alwaysStopAt="false" />
+    <variable name="VAR" expression="jsSuggestVariableName()" defaultValue="&quot;o&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+</templateSet>
