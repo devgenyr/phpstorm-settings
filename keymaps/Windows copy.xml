@@ -10,6 +10,7 @@
   <action id="Console.TableResult.DeleteRows">
     <keyboard-shortcut first-keystroke="ctrl delete" />
   </action>
+  <action id="DumpLookupElementWeights" />
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl delete" />
   </action>
