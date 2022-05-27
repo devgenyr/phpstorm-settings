@@ -9,42 +9,4 @@
     <lookup />
   </component>
   <component name="Instance" id="e7b7bfca-3c14-4020-b8fc-3bd8a7b3ad26" version="2022.1.200" />
-  <component name="UsageLog">
-    <event name="CopyLinkToFile" place="EditorPopup" timestamp="2022-05-27T09:14:43.488684300Z">
-      <attribute name="editor">true</attribute>
-      <attribute name="multipleLines">false</attribute>
-      <attribute name="multipleCarets">false</attribute>
-      <attribute name="bitbucket">cloud</attribute>
-    </event>
-    <event name="CopyLinkToFile" place="EditorPopup" timestamp="2022-05-27T09:17:06.471909300Z">
-      <attribute name="editor">true</attribute>
-      <attribute name="multipleLines">false</attribute>
-      <attribute name="multipleCarets">false</attribute>
-      <attribute name="bitbucket">cloud</attribute>
-    </event>
-    <event name="CopyLinkToFile" place="EditorPopup" timestamp="2022-05-27T09:44:18.213998200Z">
-      <attribute name="editor">true</attribute>
-      <attribute name="multipleLines">false</attribute>
-      <attribute name="multipleCarets">false</attribute>
-      <attribute name="bitbucket">cloud</attribute>
-    </event>
-    <event name="CopyLinkToFile" place="EditorPopup" timestamp="2022-05-27T09:45:27.970781600Z">
-      <attribute name="editor">true</attribute>
-      <attribute name="multipleLines">false</attribute>
-      <attribute name="multipleCarets">false</attribute>
-      <attribute name="bitbucket">cloud</attribute>
-    </event>
-    <event name="CopyLinkToFile" place="EditorPopup" timestamp="2022-05-27T09:46:29.857646100Z">
-      <attribute name="editor">true</attribute>
-      <attribute name="multipleLines">false</attribute>
-      <attribute name="multipleCarets">false</attribute>
-      <attribute name="bitbucket">cloud</attribute>
-    </event>
-    <event name="CopyLinkToFile" place="EditorPopup" timestamp="2022-05-27T09:47:49.256230400Z">
-      <attribute name="editor">true</attribute>
-      <attribute name="multipleLines">false</attribute>
-      <attribute name="multipleCarets">false</attribute>
-      <attribute name="bitbucket">cloud</attribute>
-    </event>
-  </component>
 </application>
