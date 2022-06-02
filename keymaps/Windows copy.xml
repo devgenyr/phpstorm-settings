@@ -1,4 +1,5 @@
 <keymap version="1" name="Windows copy" parent="$default">
+  <action id="ChangesView.UnshelveSilently" />
   <action id="ClassNameCompletion" />
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl alt w" />
@@ -9,6 +10,7 @@
   <action id="Console.TableResult.DeleteRows">
     <keyboard-shortcut first-keystroke="ctrl delete" />
   </action>
+  <action id="DumpLookupElementWeights" />
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl delete" />
   </action>
@@ -17,5 +19,9 @@
   </action>
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="ctrl space" />
+  </action>
+  <action id="ShowUmlDiagramPopup" />
+  <action id="me.laria.code.idea_caseconv.SnakeCaseAction">
+    <keyboard-shortcut first-keystroke="ctrl alt u" />
   </action>
 </keymap>
