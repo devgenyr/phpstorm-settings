@@ -1,4 +1,8 @@
 <keymap version="1" name="Windows copy" parent="$default">
+  <action id="ActivateDatabaseToolWindow">
+    <keyboard-shortcut first-keystroke="alt 3" />
+  </action>
+  <action id="ActivateFindToolWindow" />
   <action id="ChangesView.UnshelveSilently" />
   <action id="ClassNameCompletion" />
   <action id="CloseContent">
