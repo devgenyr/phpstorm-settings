@@ -2,7 +2,7 @@
   <component name="UISettings">
     <option name="compactTreeIndents" value="true" />
     <option name="DND_WITH_PRESSED_ALT_ONLY" value="true" />
-    <option name="EDITOR_TAB_LIMIT" value="8" />
+    <option name="EDITOR_TAB_LIMIT" value="9" />
     <option name="SCROLL_TAB_LAYOUT_IN_EDITOR" value="false" />
     <option name="showTreeIndentGuides" value="true" />
     <option name="WIDESCREEN_SUPPORT" value="true" />
