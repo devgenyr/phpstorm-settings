@@ -21,6 +21,10 @@
   <action id="EditorDeleteToWordEnd">
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
+  <action id="Refresh">
+    <keyboard-shortcut first-keystroke="ctrl f5" />
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="ctrl space" />
   </action>
