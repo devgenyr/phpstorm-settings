@@ -27,6 +27,10 @@
   <component name="PhpCodeFoldingSettings">
     <option name="COLLAPSE_IMPORTS" value="false" />
   </component>
+  <component name="SqlEditorTabsSettings" ALWAYS_QUALIFY_TAB_NAMES="true" SHORTEN_TAB_NAMES="false">
+    <option name="alwaysQualifyTabNames" value="true" />
+    <option name="shortenTabNames" value="false" />
+  </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
     <pattern pattern="\bfixme\b.*" />
