@@ -2,8 +2,11 @@
   <component name="UISettings">
     <option name="compactTreeIndents" value="true" />
     <option name="DND_WITH_PRESSED_ALT_ONLY" value="true" />
-    <option name="EDITOR_TAB_LIMIT" value="9" />
+    <option name="EDITOR_TAB_LIMIT" value="15" />
+    <option name="MARK_MODIFIED_TABS_WITH_ASTERISK" value="true" />
+    <option name="OPEN_TABS_AT_THE_END" value="true" />
     <option name="SCROLL_TAB_LAYOUT_IN_EDITOR" value="false" />
+    <option name="SHOW_PINNED_TABS_IN_A_SEPARATE_ROW" value="true" />
     <option name="showTreeIndentGuides" value="true" />
     <option name="WIDESCREEN_SUPPORT" value="true" />
   </component>
