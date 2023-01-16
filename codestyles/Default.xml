@@ -1,6 +1,7 @@
 <code_scheme name="Default" version="173">
   <option name="LINE_SEPARATOR" value="&#10;" />
   <PHPCodeStyleSettings>
+    <option name="COMMA_AFTER_LAST_ARRAY_ELEMENT" value="true" />
     <option name="BLANK_LINES_BEFORE_RETURN_STATEMENT" value="1" />
   </PHPCodeStyleSettings>
   <SqlCodeStyleSettings version="6">
