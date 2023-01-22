@@ -41,7 +41,7 @@
     <option name="KEEP_TRAILING_SPACE_ON_CARET_LINE" value="false" />
   </component>
   <component name="InlayHintsSettings">
-    <option name="lastViewedProviderKeyId" value="JavaScript.js.type.hints.variables.and.fields" />
+    <option name="lastViewedProviderKeyId" value="PHP.parameter.hints.old.php.show.names.for.all.args" />
     <settingsMapElement>
       <JavaScript.js.type.hints>
         <Settings>
