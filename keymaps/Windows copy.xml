@@ -14,6 +14,9 @@
   <action id="Console.TableResult.DeleteRows">
     <keyboard-shortcut first-keystroke="ctrl delete" />
   </action>
+  <action id="ContextHelp">
+    <keyboard-shortcut first-keystroke="alt f1" />
+  </action>
   <action id="DumpLookupElementWeights" />
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl delete" />
@@ -27,6 +30,10 @@
   </action>
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="ctrl space" />
+  </action>
+  <action id="ShowPopupMenu">
+    <keyboard-shortcut first-keystroke="context_menu" />
+    <keyboard-shortcut first-keystroke="f1" />
   </action>
   <action id="ShowUmlDiagramPopup" />
   <action id="me.laria.code.idea_caseconv.SnakeCaseAction">
