@@ -3,22 +3,6 @@
     <option name="COLLAPSE_IMPORTS" value="false" />
     <option name="COLLAPSE_FILE_HEADER" value="false" />
   </component>
-  <component name="CodeVisionSettings">
-    <option name="codeVisionGroupToPosition">
-      <map>
-        <entry key="inheritors" value="Default" />
-        <entry key="references" value="Default" />
-        <entry key="vcs.code.vision" value="Default" />
-      </map>
-    </option>
-    <option name="disabledCodeVisionProviderIds">
-      <set>
-        <option value="inheritors" />
-        <option value="references" />
-        <option value="vcs.code.vision" />
-      </set>
-    </option>
-  </component>
   <component name="DaemonCodeAnalyzerSettings">
     <option name="SHOW_METHOD_SEPARATORS" value="true" />
   </component>
@@ -35,30 +19,17 @@
     <option name="SOFT_WRAP_FILE_MASKS" value="*.*" />
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
+    <option name="REMOVE_TRAILING_BLANK_LINES" value="true" />
     <option name="IS_WHITESPACES_SHOWN" value="true" />
     <option name="ADDITIONAL_PAGE_AT_BOTTOM" value="true" />
     <option name="IS_DND_ENABLED" value="false" />
-    <option name="KEEP_TRAILING_SPACE_ON_CARET_LINE" value="false" />
-  </component>
-  <component name="InlayHintsSettings">
-    <option name="lastViewedProviderKeyId" value="PHP.parameter.hints.old.php.show.names.for.all.args" />
-    <settingsMapElement>
-      <JavaScript.js.type.hints>
-        <Settings>
-          <option name="showForFunctions" value="true" />
-          <option name="showForShorthandFunctions" value="true" />
-        </Settings>
-      </JavaScript.js.type.hints>
-      <TypeScript.ts.type.hints>
-        <Settings>
-          <option name="showForFunctions" value="true" />
-          <option name="showForShorthandFunctions" value="true" />
-        </Settings>
-      </TypeScript.ts.type.hints>
-    </settingsMapElement>
   </component>
   <component name="PhpCodeFoldingSettings">
     <option name="COLLAPSE_IMPORTS" value="false" />
+  </component>
+  <component name="SqlEditorTabsSettings" ALWAYS_QUALIFY_TAB_NAMES="true" SHORTEN_TAB_NAMES="false">
+    <option name="alwaysQualifyTabNames" value="true" />
+    <option name="shortenTabNames" value="false" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
