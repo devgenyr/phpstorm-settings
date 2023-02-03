@@ -1,0 +1,17 @@
+<code_scheme name="Yev" version="173">
+  <option name="LINE_SEPARATOR" value="&#10;" />
+  <PHPCodeStyleSettings>
+    <option name="BLANK_LINES_BEFORE_RETURN_STATEMENT" value="1" />
+  </PHPCodeStyleSettings>
+  <SqlCodeStyleSettings version="6">
+    <option name="KEYWORD_CASE" value="2" />
+    <option name="TYPE_CASE" value="2" />
+    <option name="CUSTOM_TYPE_CASE" value="0" />
+  </SqlCodeStyleSettings>
+  <codeStyleSettings language="PHP">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="SMART_TABS" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+</code_scheme>
