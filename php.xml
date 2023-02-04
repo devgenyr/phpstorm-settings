@@ -1,9 +1,0 @@
-<application>
-  <component name="PhpAutoImport" global_class_behavior="PREFER_IMPORT" />
-  <component name="PhpSmartKeysConfiguration">
-    <option name="escapeSymbolsInStringLiterals" value="true" />
-    <option name="replaceUnnecessaryDoubleQuotes" value="true" />
-    <option name="selectVariableNameWithoutDollar" value="true" />
-    <option name="smartFunctionParametersCompletion" value="true" />
-  </component>
-</application>
