@@ -125,7 +125,6 @@
     <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="0" />
     <option name="BLANK_LINES_AFTER_PACKAGE" value="1" />
     <option name="ELSE_ON_NEW_LINE" value="true" />
-    <option name="INDENT_BREAK_FROM_CASE" value="false" />
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
     <option name="ALIGN_MULTILINE_FOR" value="false" />
     <option name="SPACE_AFTER_TYPE_CAST" value="true" />
