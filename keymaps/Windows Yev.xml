@@ -28,6 +28,11 @@
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="ctrl space" />
   </action>
+  <action id="Run" />
+  <action id="ShowPopupMenu">
+    <keyboard-shortcut first-keystroke="context_menu" />
+    <keyboard-shortcut first-keystroke="shift f10" />
+  </action>
   <action id="ShowUmlDiagramPopup" />
   <action id="me.laria.code.idea_caseconv.SnakeCaseAction">
     <keyboard-shortcut first-keystroke="ctrl alt u" />
