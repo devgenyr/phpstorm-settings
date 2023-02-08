@@ -67,7 +67,7 @@
     </option>
     <option name="migratedIntoUserSpace" value="true" />
   </inspection_tool>
-  <inspection_tool class="PhpCSValidationInspection" enabled="false" level="WARNING" enabled_by_default="false" editorAttributes="WARNING_ATTRIBUTES" />
+  <inspection_tool class="PhpCSValidationInspection" enabled="true" level="WARNING" enabled_by_default="true" editorAttributes="WARNING_ATTRIBUTES" />
   <inspection_tool class="PhpTraditionalSyntaxArrayLiteralInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="PhpUndefinedFieldInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="NOTIFY_ACCESS_VIA_MAGIC_METHOD" value="false" />
