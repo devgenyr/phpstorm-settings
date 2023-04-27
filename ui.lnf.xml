@@ -8,6 +8,7 @@
     <option name="SCROLL_TAB_LAYOUT_IN_EDITOR" value="false" />
     <option name="SHOW_PINNED_TABS_IN_A_SEPARATE_ROW" value="true" />
     <option name="showTreeIndentGuides" value="true" />
+    <option name="UI_DENSITY" value="COMPACT" />
     <option name="WIDESCREEN_SUPPORT" value="true" />
   </component>
 </application>
